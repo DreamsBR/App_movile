@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ExamenDAM01</string>
+    <string name="nota_1">Nota 1</string>
+    <string name="nota_1_show">Promedio</string>
+    <string name="nota_2">Nota 2</string>
+    <string name="nota_3">Nota 3</string>
+
+    <string name="inp_sub_nota_1">Nota 1</string>
+    <string name="inp_sub_nota_2">Nota 2</string>
+    <string name="inp_sub_nota_3">Nota 3</string>
+
+    <string name="inp_nota_parciales">Nota Parciales</string>
+
+    <string name="inp_nota_1">Nota 1</string>
+    <string name="inp_nota_2">Nota 2</string>
+    <string name="inp_nota_3">Nota 3</string>
+
+    <string name="Calular">Calcular</string>
+    <string name="titulo">Promedio de notas</string>
+    <string name="resultado">Resultado :</string>
+
+
+</resources>
